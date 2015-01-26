@@ -10,7 +10,7 @@
   "devDependencies": {
     "connect-history-api-fallback": "0.0.5",
     "gulp": "^3.8.10",
-    "gulp-util": "^3.0.1"
+    "gulp-util": "^3.0.1",
     "gulp-angular-templatecache": "^1.5.0",
     "gulp-angular-filesort": "^1.0.4",
     "gulp-compass": "^2.0.3",
@@ -26,7 +26,7 @@
     "opn": "^1.0.1",
     "jshint-stylish": "^1.0.0",
     "path": "^0.4.9",
-    "wiredep": "^2.2.2",
+    "wiredep": "^2.2.2"
   },
   "scripts": {
     "test": "test"
